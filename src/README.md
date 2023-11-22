@@ -9,7 +9,7 @@ Bir kitabın bir yayınevi olabilir, bir yayınevinin birden fazla kitabı olabi
 
 Bir kitap birden fazla ödünç alma işlemine sahip olabilir, ancak her ödünç alma işlemi yalnızca bir kitaba ait olabilir. (One-to-Many ilişkisi).
 
-tabloları Kutuphane_Yonetim icinden görebilirsiniz
+tabloları src içerisinden görebilirisiniz.
 
 
 
